@@ -1,0 +1,17 @@
+{
+  "name": "mikhail",
+  "description": "Weather App",
+  "main": "WeatherApp.js",
+  "authors": [
+    "Mikhail Furnace"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
