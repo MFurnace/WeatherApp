@@ -6,7 +6,7 @@
   "dependencies": {
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.35",
     "prod": "^1.0.1"
   },
   "devDependencies": {},
